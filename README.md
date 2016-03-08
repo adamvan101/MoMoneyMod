@@ -6,3 +6,5 @@ This mod adds a text box where you can input a dollar amount and it will add tha
 I'm new to modding this game, and I was unable to change the button icon, but it adds a "roads" button to the end of the toolbar. That will toggle the input box in the top left corner. 
 
 Almost all of the code came from either [City Vitals](https://github.com/rob-williams/CityVitalsWatchMod) or [Magic Mapper](https://github.com/lxteo/Cities-Skylines-Mapper), so many thanks to them! 
+
+[Steam Page](http://steamcommunity.com/sharedfiles/filedetails/?id=417188095)
