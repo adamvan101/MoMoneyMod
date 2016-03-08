@@ -1,0 +1,12 @@
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\MoMoneyMod.dll.config
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\MoMoneyMod.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\MoMoneyMod.pdb
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\Assembly-CSharp.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\ColossalManaged.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\ICities.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\UnityEngine.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\UnityEngine.UI.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\bin\Release\ICSharpCode.SharpZipLib.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\obj\Release\MoMoneyMod.dll
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\obj\Release\MoMoneyMod.pdb
+c:\users\adam\documents\visual studio 2012\Projects\MoMoneyMod\MoMoneyMod\obj\Release\MoMoneyMod.csprojResolveAssemblyReference.cache
